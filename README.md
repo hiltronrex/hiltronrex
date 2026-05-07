@@ -21,17 +21,15 @@ I also coach Heads of Product and CPOs, teach at General Assembly, and write abo
 ---
 
 ## The Product Leader Series
-
+ 
 Four books on the craft and strategy of product leadership:
-
-| Book | Topic |
-|------|-------|
-| 📘 Book 1 | Product Leadership Foundations |
-| 📗 Book 2 | Strategy & Roadmapping |
-| 📙 Book 3 | AI & Data for Product Leaders |
-| 📕 **Book 4** | **The Product Analytics Compass** *(latest)* |
-
-> Available on [Amazon](https://amazon.com) — search *The Product Leader Series, Simon Hilton*
+ 
+| | Title |
+|--|-------|
+| 📘 | [The Product Ops Pillars](https://www.amazon.com.au/dp/B0CSMWWJKW) — Connect and organise your team to deliver customer value |
+| 📗 | [The Product Strategy Bridge](https://www.amazon.com.au/dp/B0BW3HG4TL) — Empower teams and gain confidence in your product direction |
+| 📙 | [The Product Culture Pyramid](https://www.amazon.com.au/dp/B0CQCC5Y48) — Building a principles-driven product culture |
+| 📕 | [The Product Analytics Compass](https://www.amazon.com.au/dp/B0CQCF652Z) — *(latest)* |
 
 ---
 
